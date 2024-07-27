@@ -1,4 +1,4 @@
-The idea for this project is to provide the user with an interactive alarm clock.
+The idea for this project is to provide the user with an interactive alarm clock by using Python GUI module TKinter.
 
 The user is able to select a time for the alarm to go off and can set or cancel the alarm.
 
